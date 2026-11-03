@@ -1,3 +1,0 @@
-Add a mean and standard deviation dataframe for the cross validation function...Halfdone
-Add a Confusion matrix to evaluate the model....Done
-Add a Random forest Regressor.... Done, halfway

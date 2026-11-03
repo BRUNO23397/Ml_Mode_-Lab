@@ -1,0 +1,892 @@
+Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,Deck,Title,Family size,IsAlone,Mother,TicketGroupSize,FarePerPerson,Age Group
+0,3,male,22.0,1,0,7.25,S,Unknown,Mr,2,0,0,1,7.25,Young adult
+1,1,female,38.0,1,0,71.2833,C,C,Mrs,2,0,0,1,71.2833,Adult
+1,3,female,26.0,0,0,7.925,S,Unknown,Miss,1,1,0,1,7.925,Young adult
+1,1,female,35.0,1,0,53.1,S,C,Mrs,2,0,0,2,26.55,Adult
+0,3,male,35.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+0,3,male,28.0,0,0,8.4583,Q,Unknown,Mr,1,1,0,1,8.4583,Young adult
+0,1,male,54.0,0,0,51.8625,S,E,Mr,1,1,0,1,51.8625,Elder
+0,3,male,2.0,3,1,21.075,S,Unknown,Master,5,0,0,4,5.26875,Child
+1,3,female,27.0,0,2,11.1333,S,Unknown,Mrs,3,0,1,3,3.7111,Young adult
+1,2,female,14.0,1,0,30.0708,C,Unknown,Mrs,2,0,0,2,15.0354,Child
+1,3,female,4.0,1,1,16.7,S,G,Miss,3,0,1,2,8.35,Child
+1,1,female,58.0,0,0,26.55,S,C,Miss,1,1,0,1,26.55,Elder
+0,3,male,20.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,39.0,1,5,31.275,S,Unknown,Mr,7,0,0,7,4.4678571428571425,Adult
+0,3,female,14.0,0,0,7.8542,S,Unknown,Miss,1,1,0,1,7.8542,Child
+1,2,female,55.0,0,0,16.0,S,Unknown,Mrs,1,1,0,1,16.0,Elder
+0,3,male,2.0,4,1,29.125,Q,Unknown,Master,6,0,0,5,5.825,Child
+1,2,male,28.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,female,31.0,1,0,18.0,S,Unknown,Mrs,2,0,0,1,18.0,Adult
+1,3,female,28.0,0,0,7.225,C,Unknown,Mrs,1,1,0,1,7.225,Young adult
+0,2,male,35.0,0,0,26.0,S,Unknown,Mr,1,1,0,2,13.0,Adult
+1,2,male,34.0,0,0,13.0,S,D,Mr,1,1,0,1,13.0,Adult
+1,3,female,15.0,0,0,8.0292,Q,Unknown,Miss,1,1,0,1,8.0292,Child
+1,1,male,28.0,0,0,35.5,S,A,Mr,1,1,0,1,35.5,Young adult
+0,3,female,8.0,3,1,21.075,S,Unknown,Miss,5,0,1,4,5.26875,Child
+1,3,female,38.0,1,5,31.3875,S,Unknown,Mrs,7,0,1,4,7.846875,Adult
+0,3,male,28.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+0,1,male,19.0,3,2,263.0,S,C,Mr,6,0,0,4,65.75,Young adult
+1,3,female,28.0,0,0,7.8792,Q,Unknown,Miss,1,1,0,1,7.8792,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,1,male,40.0,0,0,27.7208,C,Unknown,Don,1,1,0,1,27.7208,Adult
+1,1,female,28.0,1,0,146.5208,C,B,Mrs,2,0,0,2,73.2604,Young adult
+1,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+0,2,male,66.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Elder
+0,1,male,28.0,1,0,82.1708,C,Unknown,Mr,2,0,0,2,41.0854,Young adult
+0,1,male,42.0,1,0,52.0,S,Unknown,Mr,2,0,0,2,26.0,Adult
+1,3,male,28.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+0,3,male,21.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,female,18.0,2,0,18.0,S,Unknown,Miss,3,0,0,2,9.0,Young adult
+1,3,female,14.0,1,0,11.2417,C,Unknown,Miss,2,0,0,2,5.62085,Child
+0,3,female,40.0,1,0,9.475,S,Unknown,Mrs,2,0,0,1,9.475,Adult
+0,2,female,27.0,1,0,21.0,S,Unknown,Mrs,2,0,0,2,10.5,Young adult
+0,3,male,28.0,0,0,7.8958,C,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,2,female,3.0,1,2,41.5792,C,Unknown,Miss,4,0,1,3,13.859733333333333,Child
+1,3,female,19.0,0,0,7.8792,Q,Unknown,Miss,1,1,0,1,7.8792,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,28.0,1,0,15.5,Q,Unknown,Mr,2,0,0,1,15.5,Young adult
+1,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+0,3,male,28.0,2,0,21.6792,C,Unknown,Mr,3,0,0,1,21.6792,Young adult
+0,3,female,18.0,1,0,17.8,S,Unknown,Mrs,2,0,0,2,8.9,Young adult
+0,3,male,7.0,4,1,39.6875,S,Unknown,Master,6,0,0,6,6.614583333333333,Child
+0,3,male,21.0,0,0,7.8,S,Unknown,Mr,1,1,0,1,7.8,Young adult
+1,1,female,49.0,1,0,76.7292,C,D,Mrs,2,0,0,3,25.576400000000003,Adult
+1,2,female,29.0,1,0,26.0,S,Unknown,Mrs,2,0,0,1,26.0,Young adult
+0,1,male,65.0,0,1,61.9792,C,B,Mr,2,0,0,1,61.9792,Elder
+1,1,male,28.0,0,0,35.5,S,C,Mr,1,1,0,1,35.5,Young adult
+1,2,female,21.0,0,0,10.5,S,Unknown,Miss,1,1,0,1,10.5,Young adult
+0,3,male,28.5,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+1,2,female,5.0,1,2,27.75,S,Unknown,Miss,4,0,1,3,9.25,Child
+0,3,male,11.0,5,2,46.9,S,Unknown,Master,8,0,0,6,7.816666666666666,Child
+0,3,male,22.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+1,1,female,38.0,0,0,80.0,S,B,Miss,1,1,0,2,40.0,Adult
+0,1,male,45.0,1,0,83.475,S,C,Mr,2,0,0,2,41.7375,Adult
+0,3,male,4.0,3,2,27.9,S,Unknown,Master,6,0,0,6,4.6499999999999995,Child
+0,1,male,28.0,0,0,27.7208,C,Unknown,Mr,1,1,0,1,27.7208,Young adult
+1,3,male,28.0,1,1,15.2458,C,Unknown,Master,3,0,0,2,7.6229,Young adult
+1,2,female,29.0,0,0,10.5,S,F,Mrs,1,1,0,1,10.5,Young adult
+0,3,male,19.0,0,0,8.1583,S,Unknown,Mr,1,1,0,1,8.1583,Young adult
+1,3,female,17.0,4,2,7.925,S,Unknown,Miss,7,0,1,1,7.925,Child
+0,3,male,26.0,2,0,8.6625,S,Unknown,Mr,3,0,0,1,8.6625,Young adult
+0,2,male,32.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Adult
+0,3,female,16.0,5,2,46.9,S,Unknown,Miss,8,0,1,6,7.816666666666666,Child
+0,2,male,21.0,0,0,73.5,S,Unknown,Mr,1,1,0,5,14.7,Young adult
+0,3,male,26.0,1,0,14.4542,C,Unknown,Mr,2,0,0,1,14.4542,Young adult
+1,3,male,32.0,0,0,56.4958,S,Unknown,Mr,1,1,0,7,8.070828571428573,Adult
+0,3,male,25.0,0,0,7.65,S,F,Mr,1,1,0,1,7.65,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,2,male,0.83,0,2,29.0,S,Unknown,Master,3,0,0,2,14.5,Child
+1,3,female,30.0,0,0,12.475,S,Unknown,Miss,1,1,0,2,6.2375,Young adult
+0,3,male,22.0,0,0,9.0,S,Unknown,Mr,1,1,0,1,9.0,Young adult
+1,3,male,29.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Young adult
+1,3,female,28.0,0,0,7.7875,Q,Unknown,Miss,1,1,0,1,7.7875,Young adult
+0,1,male,28.0,0,0,47.1,S,Unknown,Mr,1,1,0,1,47.1,Young adult
+1,2,female,17.0,0,0,10.5,S,Unknown,Miss,1,1,0,1,10.5,Child
+1,3,female,33.0,3,0,15.85,S,Unknown,Mrs,4,0,0,2,7.925,Adult
+0,3,male,16.0,1,3,34.375,S,Unknown,Mr,5,0,0,4,8.59375,Child
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,1,female,23.0,3,2,263.0,S,C,Miss,6,0,1,4,65.75,Young adult
+0,3,male,24.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,29.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,20.0,0,0,7.8542,S,Unknown,Mr,1,1,0,1,7.8542,Young adult
+0,1,male,46.0,1,0,61.175,S,E,Mr,2,0,0,1,61.175,Adult
+0,3,male,26.0,1,2,20.575,S,Unknown,Mr,4,0,0,2,10.2875,Young adult
+0,3,male,59.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Elder
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,1,male,71.0,0,0,34.6542,C,A,Mr,1,1,0,1,34.6542,Elder
+1,1,male,23.0,0,1,63.3583,C,D,Mr,2,0,0,1,63.3583,Young adult
+1,2,female,34.0,0,1,23.0,S,Unknown,Mrs,2,0,1,2,11.5,Adult
+0,2,male,34.0,1,0,26.0,S,Unknown,Mr,2,0,0,2,13.0,Adult
+0,3,female,28.0,0,0,7.8958,S,Unknown,Miss,1,1,0,1,7.8958,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,1,male,21.0,0,1,77.2875,S,D,Mr,2,0,0,2,38.64375,Young adult
+0,3,male,33.0,0,0,8.6542,S,Unknown,Mr,1,1,0,1,8.6542,Adult
+0,3,male,37.0,2,0,7.925,S,Unknown,Mr,3,0,0,1,7.925,Adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,3,female,21.0,0,0,7.65,S,Unknown,Miss,1,1,0,1,7.65,Young adult
+1,3,male,28.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Young adult
+0,3,male,38.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Adult
+1,3,female,28.0,1,0,24.15,Q,Unknown,Miss,2,0,0,3,8.049999999999999,Young adult
+0,1,male,47.0,0,0,52.0,S,C,Mr,1,1,0,2,26.0,Adult
+0,3,female,14.5,1,0,14.4542,C,Unknown,Miss,2,0,0,2,7.2271,Child
+0,3,male,22.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,female,20.0,1,0,9.825,S,Unknown,Miss,2,0,0,1,9.825,Young adult
+0,3,female,17.0,0,0,14.4583,C,Unknown,Miss,1,1,0,2,7.22915,Child
+0,3,male,21.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Young adult
+0,3,male,70.5,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Elder
+0,2,male,29.0,1,0,21.0,S,Unknown,Mr,2,0,0,2,10.5,Young adult
+0,1,male,24.0,0,1,247.5208,C,B,Mr,2,0,0,2,123.7604,Young adult
+0,3,female,2.0,4,2,31.275,S,Unknown,Miss,7,0,1,7,4.4678571428571425,Child
+0,2,male,21.0,2,0,73.5,S,Unknown,Mr,3,0,0,5,14.7,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,2,male,32.5,1,0,30.0708,C,Unknown,Mr,2,0,0,2,15.0354,Adult
+1,2,female,32.5,0,0,13.0,S,E,Miss,1,1,0,1,13.0,Adult
+0,1,male,54.0,0,1,77.2875,S,D,Mr,2,0,0,2,38.64375,Elder
+1,3,male,12.0,1,0,11.2417,C,Unknown,Master,2,0,0,2,5.62085,Child
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+1,3,male,24.0,0,0,7.1417,S,Unknown,Mr,1,1,0,1,7.1417,Young adult
+1,3,female,28.0,1,1,22.3583,C,F,Miss,3,0,1,2,11.17915,Young adult
+0,3,male,45.0,0,0,6.975,S,Unknown,Mr,1,1,0,1,6.975,Adult
+0,3,male,33.0,0,0,7.8958,C,Unknown,Mr,1,1,0,1,7.8958,Adult
+0,3,male,20.0,0,0,7.05,S,Unknown,Mr,1,1,0,1,7.05,Young adult
+0,3,female,47.0,1,0,14.5,S,Unknown,Mrs,2,0,0,1,14.5,Adult
+1,2,female,29.0,1,0,26.0,S,Unknown,Mrs,2,0,0,1,26.0,Young adult
+0,2,male,25.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,2,male,23.0,0,0,15.0458,C,Unknown,Mr,1,1,0,1,15.0458,Young adult
+1,1,female,19.0,0,2,26.2833,S,D,Miss,3,0,1,1,26.2833,Young adult
+0,1,male,37.0,1,0,53.1,S,C,Mr,2,0,0,2,26.55,Adult
+0,3,male,16.0,0,0,9.2167,S,Unknown,Mr,1,1,0,2,4.60835,Child
+0,1,male,24.0,0,0,79.2,C,B,Mr,1,1,0,2,39.6,Young adult
+0,3,female,28.0,0,2,15.2458,C,Unknown,Mrs,3,0,1,2,7.6229,Young adult
+1,3,female,22.0,0,0,7.75,S,Unknown,Miss,1,1,0,1,7.75,Young adult
+1,3,female,24.0,1,0,15.85,S,Unknown,Mrs,2,0,0,2,7.925,Young adult
+0,3,male,19.0,0,0,6.75,Q,Unknown,Mr,1,1,0,1,6.75,Young adult
+0,2,male,18.0,0,0,11.5,S,Unknown,Mr,1,1,0,1,11.5,Young adult
+0,2,male,19.0,1,1,36.75,S,Unknown,Mr,3,0,0,2,18.375,Young adult
+1,3,male,27.0,0,0,7.7958,S,Unknown,Mr,1,1,0,1,7.7958,Young adult
+0,3,female,9.0,2,2,34.375,S,Unknown,Miss,5,0,1,4,8.59375,Child
+0,2,male,36.5,0,2,26.0,S,F,Mr,3,0,0,3,8.666666666666666,Adult
+0,2,male,42.0,0,0,13.0,S,Unknown,Rev,1,1,0,1,13.0,Adult
+0,2,male,51.0,0,0,12.525,S,Unknown,Rev,1,1,0,1,12.525,Elder
+1,1,female,22.0,1,0,66.6,S,C,Mrs,2,0,0,2,33.3,Young adult
+0,3,male,55.5,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Elder
+0,3,male,40.5,0,2,14.5,S,Unknown,Mr,3,0,0,1,14.5,Adult
+0,3,male,28.0,0,0,7.3125,S,Unknown,Mr,1,1,0,1,7.3125,Young adult
+0,1,male,51.0,0,1,61.3792,C,Unknown,Mr,2,0,0,1,61.3792,Elder
+1,3,female,16.0,0,0,7.7333,Q,Unknown,Miss,1,1,0,1,7.7333,Child
+0,3,male,30.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,28.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Young adult
+0,3,male,28.0,8,2,69.55,S,Unknown,Master,11,0,0,7,9.935714285714285,Young adult
+0,3,male,44.0,0,1,16.1,S,Unknown,Mr,2,0,0,1,16.1,Adult
+1,2,female,40.0,0,0,15.75,S,Unknown,Mrs,1,1,0,1,15.75,Adult
+0,3,male,26.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Young adult
+0,3,male,17.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Child
+0,3,male,1.0,4,1,39.6875,S,Unknown,Master,6,0,0,6,6.614583333333333,Child
+1,3,male,9.0,0,2,20.525,S,Unknown,Master,3,0,0,3,6.841666666666666,Child
+1,1,female,28.0,0,1,55.0,S,E,Mrs,2,0,1,2,27.5,Young adult
+0,3,female,45.0,1,4,27.9,S,Unknown,Mrs,6,0,1,6,4.6499999999999995,Adult
+0,1,male,28.0,0,0,25.925,S,Unknown,Mr,1,1,0,1,25.925,Young adult
+0,3,male,28.0,0,0,56.4958,S,Unknown,Mr,1,1,0,7,8.070828571428573,Young adult
+0,1,male,61.0,0,0,33.5,S,B,Mr,1,1,0,1,33.5,Elder
+0,3,male,4.0,4,1,29.125,Q,Unknown,Master,6,0,0,5,5.825,Child
+1,3,female,1.0,1,1,11.1333,S,Unknown,Miss,3,0,1,3,3.7111,Child
+0,3,male,21.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Young adult
+0,1,male,56.0,0,0,30.6958,C,A,Mr,1,1,0,1,30.6958,Elder
+0,3,male,18.0,1,1,7.8542,S,Unknown,Mr,3,0,0,1,7.8542,Young adult
+0,3,male,28.0,3,1,25.4667,S,Unknown,Master,5,0,0,4,6.366675,Young adult
+0,1,female,50.0,0,0,28.7125,C,C,Miss,1,1,0,1,28.7125,Adult
+0,2,male,30.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,male,36.0,0,0,0.0,S,Unknown,Mr,1,1,0,4,0.0,Adult
+0,3,female,28.0,8,2,69.55,S,Unknown,Miss,11,0,1,7,9.935714285714285,Young adult
+0,2,male,28.0,0,0,15.05,C,Unknown,Mr,1,1,0,1,15.05,Young adult
+0,3,male,9.0,4,2,31.3875,S,Unknown,Master,7,0,0,4,7.846875,Child
+1,2,male,1.0,2,1,39.0,S,F,Master,4,0,0,2,19.5,Child
+1,3,female,4.0,0,2,22.025,S,Unknown,Miss,3,0,1,1,22.025,Child
+0,1,male,28.0,0,0,50.0,S,A,Mr,1,1,0,1,50.0,Young adult
+1,3,female,28.0,1,0,15.5,Q,Unknown,Mrs,2,0,0,2,7.75,Young adult
+1,1,male,45.0,0,0,26.55,S,Unknown,Mr,1,1,0,1,26.55,Adult
+0,3,male,40.0,1,1,15.5,Q,Unknown,Mr,3,0,0,2,7.75,Adult
+0,3,male,36.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Adult
+1,2,female,32.0,0,0,13.0,S,Unknown,Mrs,1,1,0,1,13.0,Adult
+0,2,male,19.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+1,3,female,19.0,1,0,7.8542,S,Unknown,Miss,2,0,0,1,7.8542,Young adult
+1,2,male,3.0,1,1,26.0,S,F,Master,3,0,0,3,8.666666666666666,Child
+1,1,female,44.0,0,0,27.7208,C,B,Mrs,1,1,0,1,27.7208,Adult
+1,1,female,58.0,0,0,146.5208,C,B,Miss,1,1,0,2,73.2604,Elder
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+0,3,male,42.0,0,1,8.4042,S,Unknown,Mr,2,0,0,1,8.4042,Adult
+1,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+0,2,female,24.0,0,0,13.0,S,Unknown,Miss,1,1,0,1,13.0,Young adult
+0,3,male,28.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Young adult
+0,3,male,28.0,8,2,69.55,S,Unknown,Mr,11,0,0,7,9.935714285714285,Young adult
+0,3,male,34.0,0,0,6.4958,S,Unknown,Mr,1,1,0,1,6.4958,Adult
+0,3,male,45.5,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Adult
+1,3,male,18.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,female,2.0,0,1,10.4625,S,G,Miss,2,0,1,2,5.23125,Child
+0,3,male,32.0,1,0,15.85,S,Unknown,Mr,2,0,0,2,7.925,Adult
+1,3,male,26.0,0,0,18.7875,C,Unknown,Mr,1,1,0,2,9.39375,Young adult
+1,3,female,16.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Child
+1,1,male,40.0,0,0,31.0,C,A,Mr,1,1,0,1,31.0,Adult
+0,3,male,24.0,0,0,7.05,S,Unknown,Mr,1,1,0,1,7.05,Young adult
+1,2,female,35.0,0,0,21.0,S,Unknown,Miss,1,1,0,1,21.0,Adult
+0,3,male,22.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+0,2,male,30.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,male,28.0,1,0,7.75,Q,Unknown,Mr,2,0,0,1,7.75,Young adult
+1,1,female,31.0,1,0,113.275,C,D,Miss,2,0,0,3,37.75833333333333,Adult
+1,3,female,27.0,0,0,7.925,S,Unknown,Miss,1,1,0,1,7.925,Young adult
+0,2,male,42.0,1,0,27.0,S,Unknown,Mr,2,0,0,2,13.5,Adult
+1,1,female,32.0,0,0,76.2917,C,D,Miss,1,1,0,1,76.2917,Adult
+0,2,male,30.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Young adult
+1,3,male,16.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Child
+0,2,male,27.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,male,51.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Elder
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,1,male,38.0,1,0,90.0,S,C,Mr,2,0,0,2,45.0,Adult
+0,3,male,22.0,0,0,9.35,S,Unknown,Mr,1,1,0,1,9.35,Young adult
+1,2,male,19.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Young adult
+0,3,male,20.5,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+0,2,male,18.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,female,28.0,3,1,25.4667,S,Unknown,Miss,5,0,1,4,6.366675,Young adult
+1,1,female,35.0,1,0,83.475,S,C,Mrs,2,0,0,2,41.7375,Adult
+0,3,male,29.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Young adult
+0,2,male,59.0,0,0,13.5,S,Unknown,Mr,1,1,0,1,13.5,Elder
+1,3,female,5.0,4,2,31.3875,S,Unknown,Miss,7,0,1,4,7.846875,Child
+0,2,male,24.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Young adult
+0,3,female,28.0,0,0,7.55,S,Unknown,Miss,1,1,0,1,7.55,Young adult
+0,2,male,44.0,1,0,26.0,S,Unknown,Mr,2,0,0,1,26.0,Adult
+1,2,female,8.0,0,2,26.25,S,Unknown,Miss,3,0,1,3,8.75,Child
+0,2,male,19.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Young adult
+0,2,male,33.0,0,0,12.275,S,Unknown,Mr,1,1,0,1,12.275,Adult
+0,3,female,28.0,1,0,14.4542,C,Unknown,Miss,2,0,0,2,7.2271,Young adult
+1,3,female,28.0,1,0,15.5,Q,Unknown,Miss,2,0,0,2,7.75,Young adult
+0,2,male,29.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Young adult
+0,3,male,22.0,0,0,7.125,S,Unknown,Mr,1,1,0,1,7.125,Young adult
+0,3,male,30.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+0,1,male,44.0,2,0,90.0,Q,C,Dr,3,0,0,2,45.0,Adult
+0,3,female,25.0,0,0,7.775,S,Unknown,Miss,1,1,0,1,7.775,Young adult
+1,2,female,24.0,0,2,14.5,S,Unknown,Mrs,3,0,1,2,7.25,Young adult
+1,1,male,37.0,1,1,52.5542,S,D,Mr,3,0,0,2,26.2771,Adult
+0,2,male,54.0,1,0,26.0,S,Unknown,Rev,2,0,0,2,13.0,Elder
+0,3,male,28.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+0,3,female,29.0,1,1,10.4625,S,G,Mrs,3,0,1,2,5.23125,Young adult
+0,1,male,62.0,0,0,26.55,S,C,Mr,1,1,0,1,26.55,Elder
+0,3,male,30.0,1,0,16.1,S,Unknown,Mr,2,0,0,2,8.05,Young adult
+0,3,female,41.0,0,2,20.2125,S,Unknown,Mrs,3,0,1,2,10.10625,Adult
+1,3,female,29.0,0,2,15.2458,C,Unknown,Mrs,3,0,1,1,15.2458,Young adult
+1,1,female,28.0,0,0,79.2,C,Unknown,Mrs,1,1,0,1,79.2,Young adult
+1,1,female,30.0,0,0,86.5,S,B,Miss,1,1,0,3,28.833333333333332,Young adult
+1,1,female,35.0,0,0,512.3292,C,Unknown,Miss,1,1,0,3,170.7764,Adult
+1,2,female,50.0,0,1,26.0,S,Unknown,Mrs,2,0,1,2,13.0,Adult
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+1,3,male,3.0,4,2,31.3875,S,Unknown,Master,7,0,0,4,7.846875,Child
+0,1,male,52.0,1,1,79.65,S,E,Mr,3,0,0,3,26.55,Elder
+0,1,male,40.0,0,0,0.0,S,B,Mr,1,1,0,1,0.0,Adult
+0,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+0,2,male,36.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Adult
+0,3,male,16.0,4,1,39.6875,S,Unknown,Mr,6,0,0,6,6.614583333333333,Child
+1,3,male,25.0,1,0,7.775,S,Unknown,Mr,2,0,0,1,7.775,Young adult
+1,1,female,58.0,0,1,153.4625,S,C,Mrs,2,0,1,3,51.15416666666667,Elder
+1,1,female,35.0,0,0,135.6333,S,C,Miss,1,1,0,3,45.211099999999995,Adult
+0,1,male,28.0,0,0,31.0,S,Unknown,Mr,1,1,0,2,15.5,Young adult
+1,3,male,25.0,0,0,0.0,S,Unknown,Mr,1,1,0,4,0.0,Young adult
+1,2,female,41.0,0,1,19.5,S,Unknown,Mrs,2,0,1,2,9.75,Adult
+0,1,male,37.0,0,1,29.7,C,C,Mr,2,0,0,1,29.7,Adult
+1,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+1,1,female,63.0,1,0,77.9583,S,D,Miss,2,0,0,3,25.986099999999997,Elder
+0,3,female,45.0,0,0,7.75,S,Unknown,Miss,1,1,0,1,7.75,Adult
+0,2,male,28.0,0,0,0.0,S,Unknown,Mr,1,1,0,3,0.0,Young adult
+0,3,male,7.0,4,1,29.125,Q,Unknown,Master,6,0,0,5,5.825,Child
+1,3,female,35.0,1,1,20.25,S,Unknown,Mrs,3,0,1,2,10.125,Adult
+0,3,male,65.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Elder
+0,3,male,28.0,0,0,7.8542,S,Unknown,Mr,1,1,0,1,7.8542,Young adult
+0,3,male,16.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Child
+1,3,male,19.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,1,male,28.0,0,0,26.0,S,A,Mr,1,1,0,1,26.0,Young adult
+0,3,male,33.0,0,0,8.6625,C,Unknown,Mr,1,1,0,1,8.6625,Adult
+1,3,male,30.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Young adult
+0,3,male,22.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,2,male,42.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+1,3,female,22.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+1,1,female,26.0,0,0,78.85,S,Unknown,Miss,1,1,0,2,39.425,Young adult
+1,1,female,19.0,1,0,91.0792,C,B,Mrs,2,0,0,2,45.5396,Young adult
+0,2,male,36.0,0,0,12.875,C,D,Mr,1,1,0,1,12.875,Adult
+0,3,female,24.0,0,0,8.85,S,Unknown,Miss,1,1,0,1,8.85,Young adult
+0,3,male,24.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,1,male,28.0,0,0,27.7208,C,Unknown,Mr,1,1,0,1,27.7208,Young adult
+0,3,male,23.5,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+0,1,female,2.0,1,2,151.55,S,C,Miss,4,0,1,4,37.8875,Child
+1,1,male,28.0,0,0,30.5,S,C,Mr,1,1,0,1,30.5,Young adult
+1,1,female,50.0,0,1,247.5208,C,B,Mrs,2,0,1,2,123.7604,Adult
+1,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+1,3,male,28.0,2,0,23.25,Q,Unknown,Mr,3,0,0,2,11.625,Young adult
+0,3,male,19.0,0,0,0.0,S,Unknown,Mr,1,1,0,4,0.0,Young adult
+1,2,female,28.0,0,0,12.35,Q,E,Miss,1,1,0,1,12.35,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,1,male,0.92,1,2,151.55,S,C,Master,4,0,0,4,37.8875,Child
+1,1,female,28.0,0,0,110.8833,C,Unknown,Miss,1,1,0,4,27.720825,Young adult
+1,1,female,17.0,1,0,108.9,C,C,Mrs,2,0,0,2,54.45,Child
+0,2,male,30.0,1,0,24.0,C,Unknown,Mr,2,0,0,2,12.0,Young adult
+1,1,female,30.0,0,0,56.9292,C,E,Miss,1,1,0,2,28.4646,Young adult
+1,1,female,24.0,0,0,83.1583,C,C,Miss,1,1,0,2,41.57915,Young adult
+1,1,female,18.0,2,2,262.375,C,B,Miss,5,0,1,2,131.1875,Young adult
+0,2,female,26.0,1,1,26.0,S,Unknown,Mrs,3,0,1,1,26.0,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,2,male,43.0,1,1,26.25,S,Unknown,Mr,3,0,0,3,8.75,Adult
+1,3,female,26.0,0,0,7.8542,S,Unknown,Miss,1,1,0,1,7.8542,Young adult
+1,2,female,24.0,1,0,26.0,S,Unknown,Mrs,2,0,0,2,13.0,Young adult
+0,2,male,54.0,0,0,14.0,S,Unknown,Dr,1,1,0,1,14.0,Elder
+1,1,female,31.0,0,2,164.8667,S,C,Miss,3,0,1,2,82.43335,Adult
+1,1,female,40.0,1,1,134.5,C,E,Mrs,3,0,1,2,67.25,Adult
+0,3,male,22.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+0,3,male,27.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,2,female,30.0,0,0,12.35,Q,Unknown,Miss,1,1,0,1,12.35,Young adult
+1,2,female,22.0,1,1,29.0,S,Unknown,Mrs,3,0,1,2,14.5,Young adult
+0,3,male,28.0,8,2,69.55,S,Unknown,Mr,11,0,0,7,9.935714285714285,Young adult
+1,1,female,36.0,0,0,135.6333,C,C,Miss,1,1,0,3,45.211099999999995,Adult
+0,3,male,61.0,0,0,6.2375,S,Unknown,Mr,1,1,0,1,6.2375,Elder
+1,2,female,36.0,0,0,13.0,S,D,Mrs,1,1,0,1,13.0,Adult
+1,3,female,31.0,1,1,20.525,S,Unknown,Mrs,3,0,1,3,6.841666666666666,Adult
+1,1,female,16.0,0,1,57.9792,C,B,Miss,2,0,1,2,28.9896,Child
+1,3,female,28.0,2,0,23.25,Q,Unknown,Miss,3,0,0,2,11.625,Young adult
+0,1,male,45.5,0,0,28.5,S,C,Mr,1,1,0,1,28.5,Adult
+0,1,male,38.0,0,1,153.4625,S,C,Mr,2,0,0,3,51.15416666666667,Adult
+0,3,male,16.0,2,0,18.0,S,Unknown,Mr,3,0,0,2,9.0,Child
+1,1,female,28.0,1,0,133.65,S,Unknown,Mrs,2,0,0,2,66.825,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,1,male,29.0,1,0,66.6,S,C,Mr,2,0,0,2,33.3,Young adult
+1,1,female,41.0,0,0,134.5,C,E,Miss,1,1,0,2,67.25,Adult
+1,3,male,45.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+0,1,male,45.0,0,0,35.5,S,T,Mr,1,1,0,1,35.5,Adult
+1,2,male,2.0,1,1,26.0,S,F,Master,3,0,0,3,8.666666666666666,Child
+1,1,female,24.0,3,2,263.0,S,C,Miss,6,0,1,4,65.75,Young adult
+0,2,male,28.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,2,male,25.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,2,male,36.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+1,2,female,24.0,0,0,13.0,S,F,Miss,1,1,0,1,13.0,Young adult
+1,2,female,40.0,0,0,13.0,S,Unknown,Miss,1,1,0,1,13.0,Adult
+1,3,female,28.0,1,0,16.1,S,Unknown,Mrs,2,0,0,1,16.1,Young adult
+1,3,male,3.0,1,1,15.9,S,Unknown,Master,3,0,0,2,7.95,Child
+0,3,male,42.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Adult
+0,3,male,23.0,0,0,9.225,S,Unknown,Mr,1,1,0,1,9.225,Young adult
+0,1,male,28.0,0,0,35.0,S,C,Mr,1,1,0,1,35.0,Young adult
+0,3,male,15.0,1,1,7.2292,C,Unknown,Mr,3,0,0,1,7.2292,Child
+0,3,male,25.0,1,0,17.8,S,Unknown,Mr,2,0,0,2,8.9,Young adult
+0,3,male,28.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+0,3,male,28.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Young adult
+1,1,female,22.0,0,1,55.0,S,E,Miss,2,0,1,2,27.5,Young adult
+0,2,female,38.0,0,0,13.0,S,Unknown,Miss,1,1,0,1,13.0,Adult
+1,3,female,28.0,0,0,7.8792,Q,Unknown,Miss,1,1,0,1,7.8792,Young adult
+1,3,female,28.0,0,0,7.8792,Q,Unknown,Miss,1,1,0,1,7.8792,Young adult
+0,3,male,40.0,1,4,27.9,S,Unknown,Mr,6,0,0,6,4.6499999999999995,Adult
+0,2,male,29.0,1,0,27.7208,C,Unknown,Mr,2,0,0,1,27.7208,Young adult
+0,3,female,45.0,0,1,14.4542,C,Unknown,Mrs,2,0,1,2,7.2271,Adult
+0,3,male,35.0,0,0,7.05,S,Unknown,Mr,1,1,0,1,7.05,Adult
+0,3,male,28.0,1,0,15.5,Q,Unknown,Mr,2,0,0,2,7.75,Young adult
+0,3,male,30.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+1,1,female,60.0,1,0,75.25,C,D,Mrs,2,0,0,1,75.25,Elder
+1,3,female,28.0,0,0,7.2292,C,Unknown,Mrs,1,1,0,1,7.2292,Young adult
+1,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+1,1,female,24.0,0,0,69.3,C,B,Mme,1,1,0,2,34.65,Young adult
+1,1,male,25.0,1,0,55.4417,C,E,Mr,2,0,0,1,55.4417,Young adult
+0,3,male,18.0,1,0,6.4958,S,Unknown,Mr,2,0,0,1,6.4958,Young adult
+0,3,male,19.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,1,male,22.0,0,0,135.6333,C,Unknown,Mr,1,1,0,3,45.211099999999995,Young adult
+0,3,female,3.0,3,1,21.075,S,Unknown,Miss,5,0,1,4,5.26875,Child
+1,1,female,28.0,1,0,82.1708,C,Unknown,Mrs,2,0,0,2,41.0854,Young adult
+1,3,female,22.0,0,0,7.25,S,Unknown,Miss,1,1,0,1,7.25,Young adult
+0,1,male,27.0,0,2,211.5,C,C,Mr,3,0,0,1,211.5,Young adult
+0,3,male,20.0,0,0,4.0125,C,Unknown,Mr,1,1,0,1,4.0125,Young adult
+0,3,male,19.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Young adult
+1,1,female,42.0,0,0,227.525,C,Unknown,Miss,1,1,0,4,56.88125,Adult
+1,3,female,1.0,0,2,15.7417,C,Unknown,Miss,3,0,1,2,7.87085,Child
+0,3,male,32.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Adult
+1,1,female,35.0,1,0,52.0,S,Unknown,Mrs,2,0,0,2,26.0,Adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,2,male,18.0,0,0,73.5,S,Unknown,Mr,1,1,0,5,14.7,Young adult
+0,3,male,1.0,5,2,46.9,S,Unknown,Master,8,0,0,6,7.816666666666666,Child
+1,2,female,36.0,0,0,13.0,S,Unknown,Miss,1,1,0,1,13.0,Adult
+0,3,male,28.0,0,0,7.7292,Q,Unknown,Mr,1,1,0,1,7.7292,Young adult
+1,2,female,17.0,0,0,12.0,C,Unknown,Miss,1,1,0,1,12.0,Child
+1,1,male,36.0,1,2,120.0,S,B,Mr,4,0,0,4,30.0,Adult
+1,3,male,21.0,0,0,7.7958,S,Unknown,Mr,1,1,0,1,7.7958,Young adult
+0,3,male,28.0,2,0,7.925,S,Unknown,Mr,3,0,0,1,7.925,Young adult
+1,1,female,23.0,1,0,113.275,C,D,Miss,2,0,0,3,37.75833333333333,Young adult
+1,3,female,24.0,0,2,16.7,S,G,Mrs,3,0,1,2,8.35,Young adult
+0,3,male,22.0,0,0,7.7958,S,Unknown,Mr,1,1,0,1,7.7958,Young adult
+0,3,female,31.0,0,0,7.8542,S,Unknown,Miss,1,1,0,1,7.8542,Adult
+0,2,male,46.0,0,0,26.0,S,Unknown,Mr,1,1,0,2,13.0,Adult
+0,2,male,23.0,0,0,10.5,S,Unknown,Dr,1,1,0,1,10.5,Young adult
+1,2,female,28.0,0,0,12.65,S,Unknown,Mrs,1,1,0,1,12.65,Young adult
+1,3,male,39.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Adult
+0,3,male,26.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,female,21.0,1,0,9.825,S,Unknown,Miss,2,0,0,1,9.825,Young adult
+0,3,male,28.0,1,0,15.85,S,Unknown,Mr,2,0,0,2,7.925,Young adult
+0,3,female,20.0,0,0,8.6625,S,Unknown,Miss,1,1,0,1,8.6625,Young adult
+0,2,male,34.0,1,0,21.0,S,Unknown,Mr,2,0,0,1,21.0,Adult
+0,3,male,51.0,0,0,7.75,S,Unknown,Mr,1,1,0,1,7.75,Elder
+1,2,male,3.0,1,1,18.75,S,Unknown,Master,3,0,0,3,6.25,Child
+0,3,male,21.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Young adult
+0,3,female,28.0,3,1,25.4667,S,Unknown,Miss,5,0,1,4,6.366675,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,male,28.0,0,0,6.8583,Q,Unknown,Mr,1,1,0,1,6.8583,Young adult
+1,1,female,33.0,1,0,90.0,Q,C,Miss,2,0,0,2,45.0,Adult
+0,2,male,28.0,0,0,0.0,S,Unknown,Mr,1,1,0,3,0.0,Young adult
+1,3,male,44.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Adult
+0,3,female,28.0,0,0,8.05,S,Unknown,Mrs,1,1,0,1,8.05,Young adult
+1,2,female,34.0,1,1,32.5,S,Unknown,Mrs,3,0,1,1,32.5,Adult
+1,2,female,18.0,0,2,13.0,S,Unknown,Miss,3,0,1,1,13.0,Young adult
+0,2,male,30.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,female,10.0,0,2,24.15,S,Unknown,Miss,3,0,1,3,8.049999999999999,Child
+0,3,male,28.0,0,0,7.8958,C,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,male,21.0,0,0,7.7333,Q,Unknown,Mr,1,1,0,1,7.7333,Young adult
+0,3,male,29.0,0,0,7.875,S,Unknown,Mr,1,1,0,1,7.875,Young adult
+0,3,female,28.0,1,1,14.4,S,Unknown,Mrs,3,0,1,2,7.2,Young adult
+0,3,male,18.0,1,1,20.2125,S,Unknown,Mr,3,0,0,2,10.10625,Young adult
+0,3,male,28.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+1,2,female,28.0,1,0,26.0,S,Unknown,Mrs,2,0,0,1,26.0,Young adult
+1,2,female,19.0,0,0,26.0,S,Unknown,Miss,1,1,0,2,13.0,Young adult
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+1,3,male,32.0,0,0,8.05,S,E,Mr,1,1,0,1,8.05,Adult
+1,1,male,28.0,0,0,26.55,S,C,Mr,1,1,0,1,26.55,Young adult
+1,3,female,28.0,1,0,16.1,S,Unknown,Mrs,2,0,0,2,8.05,Young adult
+1,2,female,42.0,1,0,26.0,S,Unknown,Mrs,2,0,0,1,26.0,Adult
+0,3,male,17.0,0,0,7.125,S,Unknown,Mr,1,1,0,1,7.125,Child
+0,1,male,50.0,1,0,55.9,S,E,Mr,2,0,0,2,27.95,Adult
+1,1,female,14.0,1,2,120.0,S,B,Miss,4,0,1,4,30.0,Child
+0,3,female,21.0,2,2,34.375,S,Unknown,Miss,5,0,1,4,8.59375,Young adult
+1,2,female,24.0,2,3,18.75,S,Unknown,Mrs,6,0,1,3,6.25,Young adult
+0,1,male,64.0,1,4,263.0,S,C,Mr,6,0,0,4,65.75,Elder
+0,2,male,31.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Adult
+1,2,female,45.0,1,1,26.25,S,Unknown,Mrs,3,0,1,3,8.75,Adult
+0,3,male,20.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Young adult
+0,3,male,25.0,1,0,7.775,S,Unknown,Mr,2,0,0,1,7.775,Young adult
+1,2,female,28.0,0,0,13.0,S,Unknown,Ms,1,1,0,1,13.0,Young adult
+1,3,male,28.0,0,0,8.1125,S,Unknown,Mr,1,1,0,1,8.1125,Young adult
+1,1,male,4.0,0,2,81.8583,S,A,Master,3,0,0,1,81.8583,Child
+1,2,female,13.0,0,1,19.5,S,Unknown,Miss,2,0,1,2,9.75,Child
+1,1,male,34.0,0,0,26.55,S,Unknown,Mr,1,1,0,1,26.55,Adult
+1,3,female,5.0,2,1,19.2583,C,Unknown,Miss,4,0,1,4,4.814575,Child
+1,1,male,52.0,0,0,30.5,S,C,Major,1,1,0,1,30.5,Elder
+0,2,male,36.0,1,2,27.75,S,Unknown,Mr,4,0,0,3,9.25,Adult
+0,3,male,28.0,1,0,19.9667,S,Unknown,Mr,2,0,0,1,19.9667,Young adult
+0,1,male,30.0,0,0,27.75,C,C,Mr,1,1,0,1,27.75,Young adult
+1,1,male,49.0,1,0,89.1042,C,C,Mr,2,0,0,2,44.5521,Adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,3,male,29.0,0,0,7.8958,C,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,1,male,65.0,0,0,26.55,S,E,Mr,1,1,0,1,26.55,Elder
+1,1,female,28.0,1,0,51.8625,S,D,Mrs,2,0,0,1,51.8625,Young adult
+1,2,female,50.0,0,0,10.5,S,Unknown,Miss,1,1,0,1,10.5,Adult
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+1,1,male,48.0,0,0,26.55,S,E,Mr,1,1,0,1,26.55,Adult
+0,3,male,34.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+0,1,male,47.0,0,0,38.5,S,E,Mr,1,1,0,1,38.5,Adult
+0,2,male,48.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,38.0,0,0,7.05,S,Unknown,Mr,1,1,0,1,7.05,Adult
+0,2,male,28.0,0,0,0.0,S,Unknown,Mr,1,1,0,3,0.0,Young adult
+0,1,male,56.0,0,0,26.55,S,Unknown,Mr,1,1,0,1,26.55,Elder
+0,3,male,28.0,0,0,7.725,Q,Unknown,Mr,1,1,0,1,7.725,Young adult
+1,3,female,0.75,2,1,19.2583,C,Unknown,Miss,4,0,1,4,4.814575,Child
+0,3,male,28.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+0,3,male,38.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Adult
+1,2,female,33.0,1,2,27.75,S,Unknown,Mrs,4,0,1,3,9.25,Adult
+1,2,female,23.0,0,0,13.7917,C,D,Mrs,1,1,0,1,13.7917,Young adult
+0,3,female,22.0,0,0,9.8375,S,Unknown,Miss,1,1,0,1,9.8375,Young adult
+0,1,male,28.0,0,0,52.0,S,A,Mr,1,1,0,2,26.0,Young adult
+0,2,male,34.0,1,0,21.0,S,Unknown,Mr,2,0,0,2,10.5,Adult
+0,3,male,29.0,1,0,7.0458,S,Unknown,Mr,2,0,0,1,7.0458,Young adult
+0,3,male,22.0,0,0,7.5208,S,Unknown,Mr,1,1,0,1,7.5208,Young adult
+1,3,female,2.0,0,1,12.2875,S,Unknown,Miss,2,0,1,1,12.2875,Child
+0,3,male,9.0,5,2,46.9,S,Unknown,Master,8,0,0,6,7.816666666666666,Child
+0,2,male,28.0,0,0,0.0,S,Unknown,Mr,1,1,0,1,0.0,Young adult
+0,3,male,50.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+1,3,female,63.0,0,0,9.5875,S,Unknown,Mrs,1,1,0,1,9.5875,Elder
+1,1,male,25.0,1,0,91.0792,C,B,Mr,2,0,0,2,45.5396,Young adult
+0,3,female,28.0,3,1,25.4667,S,Unknown,Miss,5,0,1,4,6.366675,Young adult
+1,1,female,35.0,1,0,90.0,S,C,Mrs,2,0,0,2,45.0,Adult
+0,1,male,58.0,0,0,29.7,C,B,Mr,1,1,0,1,29.7,Elder
+0,3,male,30.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,3,male,9.0,1,1,15.9,S,Unknown,Master,3,0,0,2,7.95,Child
+0,3,male,28.0,1,0,19.9667,S,Unknown,Mr,2,0,0,1,19.9667,Young adult
+0,3,male,21.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+0,1,male,55.0,0,0,30.5,S,C,Mr,1,1,0,1,30.5,Elder
+0,1,male,71.0,0,0,49.5042,C,Unknown,Mr,1,1,0,1,49.5042,Elder
+0,3,male,21.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,28.0,0,0,14.4583,C,Unknown,Mr,1,1,0,2,7.22915,Young adult
+1,1,female,54.0,1,0,78.2667,C,D,Miss,2,0,0,2,39.13335,Elder
+0,3,male,28.0,0,0,15.1,S,Unknown,Mr,1,1,0,1,15.1,Young adult
+0,1,female,25.0,1,2,151.55,S,C,Mrs,4,0,1,4,37.8875,Young adult
+0,3,male,24.0,0,0,7.7958,S,Unknown,Mr,1,1,0,1,7.7958,Young adult
+0,3,male,17.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Child
+0,3,female,21.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+0,3,female,28.0,0,0,7.6292,Q,Unknown,Miss,1,1,0,1,7.6292,Young adult
+0,3,female,37.0,0,0,9.5875,S,Unknown,Miss,1,1,0,1,9.5875,Adult
+1,1,female,16.0,0,0,86.5,S,B,Miss,1,1,0,3,28.833333333333332,Child
+0,1,male,18.0,1,0,108.9,C,C,Mr,2,0,0,2,54.45,Young adult
+1,2,female,33.0,0,2,26.0,S,Unknown,Mrs,3,0,1,2,13.0,Adult
+1,1,male,28.0,0,0,26.55,S,Unknown,Mr,1,1,0,1,26.55,Young adult
+0,3,male,28.0,0,0,22.525,S,Unknown,Mr,1,1,0,1,22.525,Young adult
+1,3,male,26.0,0,0,56.4958,S,Unknown,Mr,1,1,0,7,8.070828571428573,Young adult
+1,3,male,29.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,1,male,36.0,0,0,26.2875,S,E,Mr,1,1,0,1,26.2875,Adult
+1,1,female,54.0,1,0,59.4,C,Unknown,Mrs,2,0,0,1,59.4,Elder
+0,3,male,24.0,0,0,7.4958,S,Unknown,Mr,1,1,0,1,7.4958,Young adult
+0,1,male,47.0,0,0,34.0208,S,D,Mr,1,1,0,1,34.0208,Adult
+1,2,female,34.0,0,0,10.5,S,F,Mrs,1,1,0,1,10.5,Adult
+0,3,male,28.0,0,0,24.15,Q,Unknown,Mr,1,1,0,3,8.049999999999999,Young adult
+1,2,female,36.0,1,0,26.0,S,Unknown,Mrs,2,0,0,1,26.0,Adult
+0,3,male,32.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Adult
+1,1,female,30.0,0,0,93.5,S,B,Miss,1,1,0,2,46.75,Young adult
+0,3,male,22.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,male,28.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+1,1,female,44.0,0,1,57.9792,C,B,Mrs,2,0,1,2,28.9896,Adult
+0,3,male,28.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+0,3,male,40.5,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Adult
+1,2,female,50.0,0,0,10.5,S,Unknown,Miss,1,1,0,1,10.5,Adult
+0,1,male,28.0,0,0,221.7792,S,C,Mr,1,1,0,1,221.7792,Young adult
+0,3,male,39.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Adult
+0,2,male,23.0,2,1,11.5,S,Unknown,Mr,4,0,0,1,11.5,Young adult
+1,2,female,2.0,1,1,26.0,S,Unknown,Miss,3,0,1,2,13.0,Child
+0,3,male,28.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+0,3,male,17.0,1,1,7.2292,C,Unknown,Mr,3,0,0,1,7.2292,Child
+1,3,female,28.0,0,2,22.3583,C,Unknown,Mrs,3,0,1,2,11.17915,Young adult
+0,3,female,30.0,0,0,8.6625,S,Unknown,Miss,1,1,0,1,8.6625,Young adult
+1,2,female,7.0,0,2,26.25,S,Unknown,Miss,3,0,1,3,8.75,Child
+0,1,male,45.0,0,0,26.55,S,B,Major,1,1,0,1,26.55,Adult
+1,1,female,30.0,0,0,106.425,C,Unknown,Miss,1,1,0,2,53.2125,Young adult
+0,3,male,28.0,0,0,14.5,S,Unknown,Mr,1,1,0,1,14.5,Young adult
+1,1,female,22.0,0,2,49.5,C,B,Miss,3,0,1,1,49.5,Young adult
+1,1,female,36.0,0,2,71.0,S,B,Miss,3,0,1,2,35.5,Adult
+0,3,female,9.0,4,2,31.275,S,Unknown,Miss,7,0,1,7,4.4678571428571425,Child
+0,3,female,11.0,4,2,31.275,S,Unknown,Miss,7,0,1,7,4.4678571428571425,Child
+1,2,male,32.0,1,0,26.0,S,Unknown,Mr,2,0,0,2,13.0,Adult
+0,1,male,50.0,1,0,106.425,C,C,Mr,2,0,0,2,53.2125,Adult
+0,1,male,64.0,0,0,26.0,S,Unknown,Mr,1,1,0,1,26.0,Elder
+1,2,female,19.0,1,0,26.0,S,Unknown,Mrs,2,0,0,2,13.0,Young adult
+1,2,male,28.0,0,0,13.8625,C,Unknown,Mr,1,1,0,1,13.8625,Young adult
+0,3,male,33.0,1,1,20.525,S,Unknown,Mr,3,0,0,3,6.841666666666666,Adult
+1,2,male,8.0,1,1,36.75,S,Unknown,Master,3,0,0,2,18.375,Child
+1,1,male,17.0,0,2,110.8833,C,C,Mr,3,0,0,4,27.720825,Child
+0,2,male,27.0,0,0,26.0,S,Unknown,Mr,1,1,0,1,26.0,Young adult
+0,3,male,28.0,0,0,7.8292,Q,Unknown,Mr,1,1,0,1,7.8292,Young adult
+1,3,male,22.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+1,3,female,22.0,0,0,7.775,S,Unknown,Miss,1,1,0,1,7.775,Young adult
+0,1,male,62.0,0,0,26.55,S,Unknown,Mr,1,1,0,1,26.55,Elder
+1,1,female,48.0,1,0,39.6,C,A,Lady,2,0,0,1,39.6,Adult
+0,1,male,28.0,0,0,227.525,C,Unknown,Mr,1,1,0,4,56.88125,Young adult
+1,1,female,39.0,1,1,79.65,S,E,Mrs,3,0,1,3,26.55,Adult
+1,3,female,36.0,1,0,17.4,S,Unknown,Mrs,2,0,0,1,17.4,Adult
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+0,3,male,40.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Adult
+0,2,male,28.0,0,0,13.5,S,Unknown,Mr,1,1,0,1,13.5,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,female,28.0,0,0,8.05,S,Unknown,Miss,1,1,0,1,8.05,Young adult
+0,3,male,24.0,2,0,24.15,S,Unknown,Mr,3,0,0,2,12.075,Young adult
+0,3,male,19.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,female,29.0,0,4,21.075,S,Unknown,Mrs,5,0,1,4,5.26875,Young adult
+0,3,male,28.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+1,3,male,32.0,0,0,7.8542,S,Unknown,Mr,1,1,0,1,7.8542,Adult
+1,2,male,62.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Elder
+1,1,female,53.0,2,0,51.4792,S,C,Mrs,3,0,0,1,51.4792,Elder
+1,1,male,36.0,0,0,26.3875,S,E,Mr,1,1,0,1,26.3875,Adult
+1,3,female,28.0,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Young adult
+0,3,male,16.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Child
+0,3,male,19.0,0,0,14.5,S,Unknown,Mr,1,1,0,2,7.25,Young adult
+1,2,female,34.0,0,0,13.0,S,Unknown,Miss,1,1,0,1,13.0,Adult
+1,1,female,39.0,1,0,55.9,S,E,Mrs,2,0,0,2,27.95,Adult
+0,3,female,28.0,1,0,14.4583,C,Unknown,Mrs,2,0,0,1,14.4583,Young adult
+1,3,male,32.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Adult
+1,2,female,25.0,1,1,30.0,S,Unknown,Miss,3,0,1,1,30.0,Young adult
+1,1,female,39.0,1,1,110.8833,C,C,Mrs,3,0,1,4,27.720825,Adult
+0,2,male,54.0,0,0,26.0,S,Unknown,Mr,1,1,0,2,13.0,Elder
+0,1,male,36.0,0,0,40.125,C,A,Mr,1,1,0,1,40.125,Adult
+0,3,male,28.0,0,0,8.7125,C,Unknown,Mr,1,1,0,1,8.7125,Young adult
+1,1,female,18.0,0,2,79.65,S,E,Miss,3,0,1,3,26.55,Young adult
+0,2,male,47.0,0,0,15.0,S,Unknown,Mr,1,1,0,1,15.0,Adult
+1,1,male,60.0,1,1,79.2,C,B,Mr,3,0,0,1,79.2,Elder
+0,3,male,22.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+0,3,male,35.0,0,0,7.125,S,Unknown,Mr,1,1,0,1,7.125,Adult
+1,1,female,52.0,1,0,78.2667,C,D,Mrs,2,0,0,2,39.13335,Elder
+0,3,male,47.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Adult
+0,3,female,28.0,0,2,7.75,Q,Unknown,Miss,3,0,1,1,7.75,Young adult
+0,2,male,37.0,1,0,26.0,S,Unknown,Mr,2,0,0,1,26.0,Adult
+0,3,male,36.0,1,1,24.15,S,Unknown,Mr,3,0,0,3,8.049999999999999,Adult
+1,2,female,28.0,0,0,33.0,S,Unknown,Miss,1,1,0,3,11.0,Young adult
+0,3,male,49.0,0,0,0.0,S,Unknown,Mr,1,1,0,4,0.0,Adult
+0,3,male,28.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+1,1,male,49.0,1,0,56.9292,C,A,Sir,2,0,0,2,28.4646,Adult
+1,2,female,24.0,2,1,27.0,S,Unknown,Mrs,4,0,1,2,13.5,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,1,male,28.0,0,0,42.4,S,Unknown,Mr,1,1,0,1,42.4,Young adult
+0,3,male,44.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+1,1,male,35.0,0,0,26.55,C,Unknown,Mr,1,1,0,1,26.55,Adult
+0,3,male,36.0,1,0,15.55,S,Unknown,Mr,2,0,0,1,15.55,Adult
+0,3,male,30.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,1,male,27.0,0,0,30.5,S,Unknown,Mr,1,1,0,1,30.5,Young adult
+1,2,female,22.0,1,2,41.5792,C,Unknown,Mrs,4,0,1,3,13.859733333333333,Young adult
+1,1,female,40.0,0,0,153.4625,S,C,Miss,1,1,0,3,51.15416666666667,Adult
+0,3,female,39.0,1,5,31.275,S,Unknown,Mrs,7,0,1,7,4.4678571428571425,Adult
+0,3,male,28.0,0,0,7.05,S,Unknown,Mr,1,1,0,1,7.05,Young adult
+1,3,female,28.0,1,0,15.5,Q,Unknown,Miss,2,0,0,2,7.75,Young adult
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+0,3,male,35.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+1,2,female,24.0,1,2,65.0,S,Unknown,Miss,4,0,1,2,32.5,Young adult
+0,3,male,34.0,1,1,14.4,S,Unknown,Mr,3,0,0,2,7.2,Adult
+0,3,female,26.0,1,0,16.1,S,Unknown,Mrs,2,0,0,2,8.05,Young adult
+1,2,female,4.0,2,1,39.0,S,F,Miss,4,0,1,2,19.5,Child
+0,2,male,26.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Young adult
+0,3,male,27.0,1,0,14.4542,C,Unknown,Mr,2,0,0,2,7.2271,Young adult
+1,1,male,42.0,1,0,52.5542,S,D,Mr,2,0,0,1,52.5542,Adult
+1,3,male,20.0,1,1,15.7417,C,Unknown,Mr,3,0,0,2,7.87085,Young adult
+0,3,male,21.0,0,0,7.8542,S,Unknown,Mr,1,1,0,1,7.8542,Young adult
+0,3,male,21.0,0,0,16.1,S,Unknown,Mr,1,1,0,2,8.05,Young adult
+0,1,male,61.0,0,0,32.3208,S,D,Mr,1,1,0,1,32.3208,Elder
+0,2,male,57.0,0,0,12.35,Q,Unknown,Rev,1,1,0,1,12.35,Elder
+1,1,female,21.0,0,0,77.9583,S,D,Miss,1,1,0,3,25.986099999999997,Young adult
+0,3,male,26.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,male,28.0,0,0,7.7333,Q,Unknown,Mr,1,1,0,1,7.7333,Young adult
+1,1,male,80.0,0,0,30.0,S,A,Mr,1,1,0,1,30.0,Elder
+0,3,male,51.0,0,0,7.0542,S,Unknown,Mr,1,1,0,1,7.0542,Elder
+1,1,male,32.0,0,0,30.5,C,B,Dr,1,1,0,1,30.5,Adult
+0,1,male,28.0,0,0,0.0,S,Unknown,Mr,1,1,0,1,0.0,Young adult
+0,3,female,9.0,3,2,27.9,S,Unknown,Miss,6,0,1,6,4.6499999999999995,Child
+1,2,female,28.0,0,0,13.0,S,Unknown,Miss,1,1,0,1,13.0,Young adult
+0,3,male,32.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Adult
+0,2,male,31.0,1,1,26.25,S,Unknown,Mr,3,0,0,3,8.75,Adult
+0,3,female,41.0,0,5,39.6875,S,Unknown,Mrs,6,0,1,6,6.614583333333333,Adult
+0,3,male,28.0,1,0,16.1,S,Unknown,Mr,2,0,0,2,8.05,Young adult
+0,3,male,20.0,0,0,7.8542,S,Unknown,Mr,1,1,0,1,7.8542,Young adult
+1,1,female,24.0,0,0,69.3,C,B,Mlle,1,1,0,2,34.65,Young adult
+0,3,female,2.0,3,2,27.9,S,Unknown,Miss,6,0,1,6,4.6499999999999995,Child
+1,3,male,28.0,0,0,56.4958,S,Unknown,Mr,1,1,0,7,8.070828571428573,Young adult
+1,3,female,0.75,2,1,19.2583,C,Unknown,Miss,4,0,1,4,4.814575,Child
+1,1,male,48.0,1,0,76.7292,C,D,Mr,2,0,0,3,25.576400000000003,Adult
+0,3,male,19.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,1,male,56.0,0,0,35.5,C,A,Col,1,1,0,1,35.5,Elder
+0,3,male,28.0,0,0,7.55,S,Unknown,Mr,1,1,0,1,7.55,Young adult
+1,3,female,23.0,0,0,7.55,S,Unknown,Miss,1,1,0,1,7.55,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,2,female,18.0,0,1,23.0,S,Unknown,Miss,2,0,1,2,11.5,Young adult
+0,3,male,21.0,0,0,8.4333,S,Unknown,Mr,1,1,0,1,8.4333,Young adult
+1,3,female,28.0,0,0,7.8292,Q,Unknown,Miss,1,1,0,1,7.8292,Young adult
+0,3,female,18.0,0,0,6.75,Q,Unknown,Miss,1,1,0,1,6.75,Young adult
+0,2,male,24.0,2,0,73.5,S,Unknown,Mr,3,0,0,5,14.7,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,female,32.0,1,1,15.5,Q,Unknown,Mrs,3,0,1,2,7.75,Adult
+0,2,male,23.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,1,male,58.0,0,2,113.275,C,D,Mr,3,0,0,3,37.75833333333333,Elder
+1,1,male,50.0,2,0,133.65,S,Unknown,Dr,3,0,0,2,66.825,Adult
+0,3,male,40.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Adult
+0,1,male,47.0,0,0,25.5875,S,E,Mr,1,1,0,1,25.5875,Adult
+0,3,male,36.0,0,0,7.4958,S,Unknown,Mr,1,1,0,1,7.4958,Adult
+1,3,male,20.0,1,0,7.925,S,Unknown,Mr,2,0,0,1,7.925,Young adult
+0,2,male,32.0,2,0,73.5,S,Unknown,Mr,3,0,0,5,14.7,Adult
+0,2,male,25.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,male,28.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Young adult
+0,3,male,43.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+1,1,female,28.0,1,0,52.0,S,C,Mrs,2,0,0,2,26.0,Young adult
+1,2,female,40.0,1,1,39.0,S,Unknown,Mrs,3,0,1,2,19.5,Adult
+0,1,male,31.0,1,0,52.0,S,B,Mr,2,0,0,1,52.0,Adult
+0,2,male,70.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Elder
+1,2,male,31.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+0,2,male,28.0,0,0,0.0,S,Unknown,Mr,1,1,0,1,0.0,Young adult
+0,3,male,18.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Young adult
+0,3,male,24.5,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,3,female,18.0,0,0,9.8417,S,Unknown,Miss,1,1,0,1,9.8417,Young adult
+0,3,female,43.0,1,6,46.9,S,Unknown,Mrs,8,0,1,6,7.816666666666666,Adult
+1,1,male,36.0,0,1,512.3292,C,B,Mr,2,0,0,3,170.7764,Adult
+0,3,female,28.0,0,0,8.1375,Q,Unknown,Miss,1,1,0,1,8.1375,Young adult
+1,1,male,27.0,0,0,76.7292,C,D,Mr,1,1,0,3,25.576400000000003,Young adult
+0,3,male,20.0,0,0,9.225,S,Unknown,Mr,1,1,0,1,9.225,Young adult
+0,3,male,14.0,5,2,46.9,S,Unknown,Mr,8,0,0,6,7.816666666666666,Child
+0,2,male,60.0,1,1,39.0,S,Unknown,Mr,3,0,0,2,19.5,Elder
+0,2,male,25.0,1,2,41.5792,C,Unknown,Mr,4,0,0,3,13.859733333333333,Young adult
+0,3,male,14.0,4,1,39.6875,S,Unknown,Mr,6,0,0,6,6.614583333333333,Child
+0,3,male,19.0,0,0,10.1708,S,Unknown,Mr,1,1,0,1,10.1708,Young adult
+0,3,male,18.0,0,0,7.7958,S,Unknown,Mr,1,1,0,1,7.7958,Young adult
+1,1,female,15.0,0,1,211.3375,S,B,Miss,2,0,1,3,70.44583333333334,Child
+1,1,male,31.0,1,0,57.0,S,B,Mr,2,0,0,2,28.5,Adult
+1,3,female,4.0,0,1,13.4167,C,Unknown,Miss,2,0,1,1,13.4167,Child
+1,3,male,28.0,0,0,56.4958,S,Unknown,Mr,1,1,0,7,8.070828571428573,Young adult
+0,3,male,25.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+0,1,male,60.0,0,0,26.55,S,Unknown,Col,1,1,0,1,26.55,Elder
+0,2,male,52.0,0,0,13.5,S,Unknown,Mr,1,1,0,1,13.5,Elder
+0,3,male,44.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+1,3,female,28.0,0,0,7.7333,Q,Unknown,Miss,1,1,0,1,7.7333,Young adult
+0,1,male,49.0,1,1,110.8833,C,C,Mr,3,0,0,4,27.720825,Adult
+0,3,male,42.0,0,0,7.65,S,F,Mr,1,1,0,1,7.65,Adult
+1,1,female,18.0,1,0,227.525,C,C,Mrs,2,0,0,4,56.88125,Young adult
+1,1,male,35.0,0,0,26.2875,S,E,Mr,1,1,0,1,26.2875,Adult
+0,3,female,18.0,0,1,14.4542,C,Unknown,Miss,2,0,1,2,7.2271,Young adult
+0,3,male,25.0,0,0,7.7417,Q,Unknown,Mr,1,1,0,1,7.7417,Young adult
+0,3,male,26.0,1,0,7.8542,S,Unknown,Mr,2,0,0,1,7.8542,Young adult
+0,2,male,39.0,0,0,26.0,S,Unknown,Mr,1,1,0,2,13.0,Adult
+1,2,female,45.0,0,0,13.5,S,Unknown,Mrs,1,1,0,1,13.5,Adult
+1,1,male,42.0,0,0,26.2875,S,E,Mr,1,1,0,1,26.2875,Adult
+1,1,female,22.0,0,0,151.55,S,Unknown,Miss,1,1,0,4,37.8875,Young adult
+1,3,male,28.0,1,1,15.2458,C,Unknown,Master,3,0,0,2,7.6229,Young adult
+1,1,female,24.0,0,0,49.5042,C,C,Mlle,1,1,0,1,49.5042,Young adult
+0,1,male,28.0,0,0,26.55,S,C,Mr,1,1,0,1,26.55,Young adult
+1,1,male,48.0,1,0,52.0,S,C,Mr,2,0,0,2,26.0,Adult
+0,3,male,29.0,0,0,9.4833,S,Unknown,Mr,1,1,0,1,9.4833,Young adult
+0,2,male,52.0,0,0,13.0,S,Unknown,Mr,1,1,0,2,6.5,Elder
+0,3,male,19.0,0,0,7.65,S,F,Mr,1,1,0,1,7.65,Young adult
+1,1,female,38.0,0,0,227.525,C,C,Miss,1,1,0,4,56.88125,Adult
+1,2,female,27.0,0,0,10.5,S,E,Miss,1,1,0,1,10.5,Young adult
+0,3,male,28.0,0,0,15.5,Q,Unknown,Mr,1,1,0,1,15.5,Young adult
+0,3,male,33.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Adult
+1,2,female,6.0,0,1,33.0,S,Unknown,Miss,2,0,1,3,11.0,Child
+0,3,male,17.0,1,0,7.0542,S,Unknown,Mr,2,0,0,1,7.0542,Child
+0,2,male,34.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+0,2,male,50.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+1,1,male,27.0,1,0,53.1,S,E,Mr,2,0,0,2,26.55,Young adult
+0,3,male,20.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Young adult
+1,2,female,30.0,3,0,21.0,S,Unknown,Mrs,4,0,0,2,10.5,Young adult
+1,3,female,28.0,0,0,7.7375,Q,Unknown,Miss,1,1,0,1,7.7375,Young adult
+0,2,male,25.0,1,0,26.0,S,Unknown,Mr,2,0,0,1,26.0,Young adult
+0,3,female,25.0,1,0,7.925,S,Unknown,Miss,2,0,0,1,7.925,Young adult
+1,1,female,29.0,0,0,211.3375,S,B,Miss,1,1,0,3,70.44583333333334,Young adult
+0,3,male,11.0,0,0,18.7875,C,Unknown,Mr,1,1,0,2,9.39375,Child
+0,2,male,28.0,0,0,0.0,S,Unknown,Mr,1,1,0,1,0.0,Young adult
+0,2,male,23.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,2,male,23.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+0,3,male,28.5,0,0,16.1,S,Unknown,Mr,1,1,0,2,8.05,Young adult
+0,3,female,48.0,1,3,34.375,S,Unknown,Mrs,5,0,1,4,8.59375,Adult
+1,1,male,35.0,0,0,512.3292,C,B,Mr,1,1,0,3,170.7764,Adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,1,male,28.0,0,0,30.0,S,D,Mr,1,1,0,1,30.0,Young adult
+0,1,male,36.0,1,0,78.85,S,C,Mr,2,0,0,2,39.425,Adult
+1,1,female,21.0,2,2,262.375,C,B,Miss,5,0,1,2,131.1875,Young adult
+0,3,male,24.0,1,0,16.1,S,Unknown,Mr,2,0,0,1,16.1,Young adult
+1,3,male,31.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Adult
+0,1,male,70.0,1,1,71.0,S,B,Capt,3,0,0,2,35.5,Elder
+0,3,male,16.0,1,1,20.25,S,Unknown,Mr,3,0,0,2,10.125,Child
+1,2,female,30.0,0,0,13.0,S,Unknown,Miss,1,1,0,1,13.0,Young adult
+0,1,male,19.0,1,0,53.1,S,D,Mr,2,0,0,1,53.1,Young adult
+0,3,male,31.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Adult
+1,2,female,4.0,1,1,23.0,S,Unknown,Miss,3,0,1,1,23.0,Child
+1,3,male,6.0,0,1,12.475,S,E,Master,2,0,0,2,6.2375,Child
+0,3,male,33.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Adult
+0,3,male,23.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,2,female,48.0,1,2,65.0,S,Unknown,Mrs,4,0,1,2,32.5,Adult
+1,2,male,0.67,1,1,14.5,S,Unknown,Master,3,0,0,2,7.25,Child
+0,3,male,28.0,0,0,7.7958,S,Unknown,Mr,1,1,0,1,7.7958,Young adult
+0,2,male,18.0,0,0,11.5,S,Unknown,Mr,1,1,0,1,11.5,Young adult
+0,3,male,34.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+1,1,female,33.0,0,0,86.5,S,B,Countess,1,1,0,3,28.833333333333332,Adult
+0,3,male,28.0,0,0,14.5,S,Unknown,Mr,1,1,0,2,7.25,Young adult
+0,3,male,41.0,0,0,7.125,S,Unknown,Mr,1,1,0,1,7.125,Adult
+1,3,male,20.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+1,1,female,36.0,1,2,120.0,S,B,Mrs,4,0,1,4,30.0,Adult
+0,3,male,16.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Child
+1,1,female,51.0,1,0,77.9583,S,D,Mrs,2,0,0,3,25.986099999999997,Elder
+0,1,male,28.0,0,0,39.6,C,Unknown,Dr,1,1,0,1,39.6,Young adult
+0,3,female,30.5,0,0,7.75,Q,Unknown,Miss,1,1,0,1,7.75,Adult
+0,3,male,28.0,1,0,24.15,Q,Unknown,Mr,2,0,0,3,8.049999999999999,Young adult
+0,3,male,32.0,0,0,8.3625,S,Unknown,Mr,1,1,0,1,8.3625,Adult
+0,3,male,24.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Young adult
+0,3,male,48.0,0,0,7.8542,S,Unknown,Mr,1,1,0,1,7.8542,Adult
+0,2,female,57.0,0,0,10.5,S,E,Mrs,1,1,0,2,5.25,Elder
+0,3,male,28.0,0,0,7.225,C,Unknown,Mr,1,1,0,1,7.225,Young adult
+1,2,female,54.0,1,3,23.0,S,Unknown,Mrs,5,0,1,1,23.0,Elder
+0,3,male,18.0,0,0,7.75,S,Unknown,Mr,1,1,0,1,7.75,Young adult
+0,3,male,28.0,0,0,7.75,Q,F,Mr,1,1,0,1,7.75,Young adult
+1,3,female,5.0,0,0,12.475,S,Unknown,Miss,1,1,0,2,6.2375,Child
+0,3,male,28.0,0,0,7.7375,Q,Unknown,Mr,1,1,0,1,7.7375,Young adult
+1,1,female,43.0,0,1,211.3375,S,B,Mrs,2,0,1,3,70.44583333333334,Adult
+1,3,female,13.0,0,0,7.2292,C,Unknown,Miss,1,1,0,1,7.2292,Child
+1,1,female,17.0,1,0,57.0,S,B,Mrs,2,0,0,2,28.5,Child
+0,1,male,29.0,0,0,30.0,S,D,Mr,1,1,0,1,30.0,Young adult
+0,3,male,28.0,1,2,23.45,S,Unknown,Mr,4,0,0,2,11.725,Young adult
+0,3,male,25.0,0,0,7.05,S,Unknown,Mr,1,1,0,1,7.05,Young adult
+0,3,male,25.0,0,0,7.25,S,Unknown,Mr,1,1,0,1,7.25,Young adult
+1,3,female,18.0,0,0,7.4958,S,Unknown,Miss,1,1,0,1,7.4958,Young adult
+0,3,male,8.0,4,1,29.125,Q,Unknown,Master,6,0,0,5,5.825,Child
+1,3,male,1.0,1,2,20.575,S,Unknown,Master,4,0,0,2,10.2875,Child
+0,1,male,46.0,0,0,79.2,C,B,Mr,1,1,0,2,39.6,Adult
+0,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+0,2,male,16.0,0,0,26.0,S,Unknown,Mr,1,1,0,2,13.0,Child
+0,3,female,28.0,8,2,69.55,S,Unknown,Miss,11,0,1,7,9.935714285714285,Young adult
+0,1,male,28.0,0,0,30.6958,C,Unknown,Mr,1,1,0,1,30.6958,Young adult
+0,3,male,25.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,2,male,39.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+1,1,female,49.0,0,0,25.9292,S,D,Dr,1,1,0,1,25.9292,Adult
+1,3,female,31.0,0,0,8.6833,S,Unknown,Mrs,1,1,0,1,8.6833,Adult
+0,3,male,30.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+0,3,female,30.0,1,1,24.15,S,Unknown,Mrs,3,0,1,3,8.049999999999999,Young adult
+0,2,male,34.0,0,0,13.0,S,Unknown,Mr,1,1,0,2,6.5,Adult
+1,2,female,31.0,1,1,26.25,S,Unknown,Mrs,3,0,1,3,8.75,Adult
+1,1,male,11.0,1,2,120.0,S,B,Master,4,0,0,4,30.0,Child
+1,3,male,0.42,0,1,8.5167,C,Unknown,Master,2,0,0,1,8.5167,Child
+1,3,male,27.0,0,0,6.975,S,Unknown,Mr,1,1,0,1,6.975,Young adult
+0,3,male,31.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Adult
+0,1,male,39.0,0,0,0.0,S,A,Mr,1,1,0,1,0.0,Adult
+0,3,female,18.0,0,0,7.775,S,Unknown,Miss,1,1,0,1,7.775,Young adult
+0,2,male,39.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Adult
+1,1,female,33.0,1,0,53.1,S,E,Mrs,2,0,0,2,26.55,Adult
+0,3,male,26.0,0,0,7.8875,S,Unknown,Mr,1,1,0,1,7.8875,Young adult
+0,3,male,39.0,0,0,24.15,S,Unknown,Mr,1,1,0,2,12.075,Adult
+0,2,male,35.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Adult
+0,3,female,6.0,4,2,31.275,S,Unknown,Miss,7,0,1,7,4.4678571428571425,Child
+0,3,male,30.5,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Adult
+0,1,male,28.0,0,0,0.0,S,B,Mr,1,1,0,1,0.0,Young adult
+0,3,female,23.0,0,0,7.925,S,Unknown,Miss,1,1,0,1,7.925,Young adult
+0,2,male,31.0,1,1,37.0042,C,Unknown,Mr,3,0,0,2,18.5021,Adult
+0,3,male,43.0,0,0,6.45,S,Unknown,Mr,1,1,0,1,6.45,Adult
+0,3,male,10.0,3,2,27.9,S,Unknown,Master,6,0,0,6,4.6499999999999995,Child
+1,1,female,52.0,1,1,93.5,S,B,Mrs,3,0,1,2,46.75,Elder
+1,3,male,27.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Young adult
+0,1,male,38.0,0,0,0.0,S,Unknown,Jonkheer,1,1,0,1,0.0,Adult
+1,3,female,27.0,0,1,12.475,S,E,Mrs,2,0,1,2,6.2375,Young adult
+0,3,male,2.0,4,1,39.6875,S,Unknown,Master,6,0,0,6,6.614583333333333,Child
+0,3,male,28.0,0,0,6.95,Q,Unknown,Mr,1,1,0,1,6.95,Young adult
+0,3,male,28.0,0,0,56.4958,S,Unknown,Mr,1,1,0,7,8.070828571428573,Young adult
+1,2,male,1.0,0,2,37.0042,C,Unknown,Master,3,0,0,2,18.5021,Child
+1,3,male,28.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Young adult
+1,1,female,62.0,0,0,80.0,S,B,Mrs,1,1,0,2,40.0,Elder
+1,3,female,15.0,1,0,14.4542,C,Unknown,Mrs,2,0,0,2,7.2271,Child
+1,2,male,0.83,1,1,18.75,S,Unknown,Master,3,0,0,3,6.25,Child
+0,3,male,28.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+0,3,male,23.0,0,0,7.8542,S,Unknown,Mr,1,1,0,1,7.8542,Young adult
+0,3,male,18.0,0,0,8.3,S,Unknown,Mr,1,1,0,1,8.3,Young adult
+1,1,female,39.0,1,1,83.1583,C,E,Miss,3,0,1,1,83.1583,Adult
+0,3,male,21.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Young adult
+0,3,male,28.0,0,0,8.05,S,Unknown,Mr,1,1,0,1,8.05,Young adult
+1,3,male,32.0,0,0,56.4958,S,Unknown,Mr,1,1,0,7,8.070828571428573,Adult
+1,1,male,28.0,0,0,29.7,C,C,Mr,1,1,0,1,29.7,Young adult
+0,3,male,20.0,0,0,7.925,S,Unknown,Mr,1,1,0,1,7.925,Young adult
+0,2,male,16.0,0,0,10.5,S,Unknown,Mr,1,1,0,2,5.25,Child
+1,1,female,30.0,0,0,31.0,C,Unknown,Miss,1,1,0,2,15.5,Young adult
+0,3,male,34.5,0,0,6.4375,C,Unknown,Mr,1,1,0,1,6.4375,Adult
+0,3,male,17.0,0,0,8.6625,S,Unknown,Mr,1,1,0,1,8.6625,Child
+0,3,male,42.0,0,0,7.55,S,Unknown,Mr,1,1,0,1,7.55,Adult
+0,3,male,28.0,8,2,69.55,S,Unknown,Mr,11,0,0,7,9.935714285714285,Young adult
+0,3,male,35.0,0,0,7.8958,C,Unknown,Mr,1,1,0,1,7.8958,Adult
+0,2,male,28.0,0,1,33.0,S,Unknown,Rev,2,0,0,3,11.0,Young adult
+1,1,female,28.0,1,0,89.1042,C,C,Mrs,2,0,0,2,44.5521,Young adult
+0,3,male,4.0,4,2,31.275,S,Unknown,Master,7,0,0,7,4.4678571428571425,Child
+0,3,male,74.0,0,0,7.775,S,Unknown,Mr,1,1,0,1,7.775,Elder
+0,3,female,9.0,1,1,15.2458,C,Unknown,Miss,3,0,1,2,7.6229,Child
+1,1,female,16.0,0,1,39.4,S,D,Miss,2,0,1,1,39.4,Child
+0,2,female,44.0,1,0,26.0,S,Unknown,Mrs,2,0,0,2,13.0,Adult
+1,3,female,18.0,0,1,9.35,S,Unknown,Mrs,2,0,1,1,9.35,Young adult
+1,1,female,45.0,1,1,164.8667,S,Unknown,Mrs,3,0,1,2,82.43335,Adult
+1,1,male,51.0,0,0,26.55,S,E,Mr,1,1,0,1,26.55,Elder
+1,3,female,24.0,0,3,19.2583,C,Unknown,Mrs,4,0,1,4,4.814575,Young adult
+0,3,male,28.0,0,0,7.2292,C,Unknown,Mr,1,1,0,1,7.2292,Young adult
+0,3,male,41.0,2,0,14.1083,S,Unknown,Mr,3,0,0,1,14.1083,Adult
+0,2,male,21.0,1,0,11.5,S,Unknown,Mr,2,0,0,1,11.5,Young adult
+1,1,female,48.0,0,0,25.9292,S,D,Mrs,1,1,0,1,25.9292,Adult
+0,3,female,28.0,8,2,69.55,S,Unknown,Miss,11,0,1,7,9.935714285714285,Young adult
+0,2,male,24.0,0,0,13.0,S,Unknown,Mr,1,1,0,1,13.0,Young adult
+1,2,female,42.0,0,0,13.0,S,Unknown,Mrs,1,1,0,1,13.0,Adult
+1,2,female,27.0,1,0,13.8583,C,Unknown,Miss,2,0,0,1,13.8583,Young adult
+0,1,male,31.0,0,0,50.4958,S,A,Mr,1,1,0,1,50.4958,Adult
+0,3,male,28.0,0,0,9.5,S,Unknown,Mr,1,1,0,1,9.5,Young adult
+1,3,male,4.0,1,1,11.1333,S,Unknown,Master,3,0,0,3,3.7111,Child
+0,3,male,26.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,1,female,47.0,1,1,52.5542,S,D,Mrs,3,0,1,2,26.2771,Adult
+0,1,male,33.0,0,0,5.0,S,B,Mr,1,1,0,1,5.0,Adult
+0,3,male,47.0,0,0,9.0,S,Unknown,Mr,1,1,0,1,9.0,Adult
+1,2,female,28.0,1,0,24.0,C,Unknown,Mrs,2,0,0,2,12.0,Young adult
+1,3,female,15.0,0,0,7.225,C,Unknown,Miss,1,1,0,1,7.225,Child
+0,3,male,20.0,0,0,9.8458,S,Unknown,Mr,1,1,0,2,4.9229,Young adult
+0,3,male,19.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+0,3,male,28.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Young adult
+1,1,female,56.0,0,1,83.1583,C,C,Mrs,2,0,1,2,41.57915,Elder
+1,2,female,25.0,0,1,26.0,S,Unknown,Mrs,2,0,1,2,13.0,Young adult
+0,3,male,33.0,0,0,7.8958,S,Unknown,Mr,1,1,0,1,7.8958,Adult
+0,3,female,22.0,0,0,10.5167,S,Unknown,Miss,1,1,0,1,10.5167,Young adult
+0,2,male,28.0,0,0,10.5,S,Unknown,Mr,1,1,0,1,10.5,Young adult
+0,3,male,25.0,0,0,7.05,S,Unknown,Mr,1,1,0,1,7.05,Young adult
+0,3,female,39.0,0,5,29.125,Q,Unknown,Mrs,6,0,1,5,5.825,Adult
+0,2,male,27.0,0,0,13.0,S,Unknown,Rev,1,1,0,1,13.0,Young adult
+1,1,female,19.0,0,0,30.0,S,B,Miss,1,1,0,1,30.0,Young adult
+0,3,female,28.0,1,2,23.45,S,Unknown,Miss,4,0,1,2,11.725,Young adult
+1,1,male,26.0,0,0,30.0,C,C,Mr,1,1,0,1,30.0,Young adult
+0,3,male,32.0,0,0,7.75,Q,Unknown,Mr,1,1,0,1,7.75,Adult
